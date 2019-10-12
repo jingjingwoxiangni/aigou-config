@@ -2,6 +2,6 @@ server:
   port: 9999
 spring:
   application:
-    name: AIGOU-PRODUCT #·şÎñÃû³Æ
+    name: AIGOU-PRODUCT #æœåŠ¡åç§°
 
 
